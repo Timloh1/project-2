@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <ctime>
 #include <string>
 #include <vector>
@@ -231,4 +231,4 @@ int main() {
 
 	}
 
-}*/
+}
